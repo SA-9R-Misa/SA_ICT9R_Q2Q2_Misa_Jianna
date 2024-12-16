@@ -1,0 +1,35 @@
+ body {
+            background-image: url('https://media.istockphoto.com/id/1987307560/photo/big-data-visualisation-abstract-digital-particles-cyber-network-background-technology-backdrop.webp?b=1&s=612x612&w=0&k=20&c=u0mShHOrztoUdBtg810qB-zd8mOtx-DoqZcU5ZgLpzU='); /* Correct syntax */
+            background-size: cover; /* Ensure the image covers the entire background */
+            background-repeat: no-repeat; /* Prevent tiling */
+            background-position: center; /* Center the image */
+
+        }
+        .header {
+            background-color: #e7c6ff;
+            color: #611c35;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+        .content {
+           padding: 20px;
+           background-color: #bbd0ff;
+           color: #611c35; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; /* Slight transparency */
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: white;
+        }
+        img {
+            width: 1300px;
+            height: 1100px;
+        }
+        h4 {
+            color: whitesmoke;
+        }
+   
